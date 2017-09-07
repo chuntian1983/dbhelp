@@ -1,0 +1,2 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DBUtility\bin\Release\Maticsoft.DBUtility.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DBUtility\obj\Release\Maticsoft.DBUtility.dll
